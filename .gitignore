@@ -1,0 +1,14 @@
+# 物理数据载荷隔离
+*.json
+*.csv
+!system_prompt.json  # 如果你有单独保存设定的 json，可豁免
+
+# macOS 系统级噪音
+.DS_Store
+
+# Python 编译缓存与虚拟环境
+__pycache__/
+*.pyc
+.env
+venv/
+env/

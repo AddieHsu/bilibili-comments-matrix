@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+openai
+requests
+time
+json
+os
+re
